@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: api-gateway
+
+  cloud:
+    config:
+      uri: http://host.docker.internal:8094
+      username: root
+      password: l$14V12GOKEf
